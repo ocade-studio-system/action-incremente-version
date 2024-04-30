@@ -1,1 +1,1 @@
-# Action Github permettant d'incrémenter la version des commentaires d'un plugin ou d'un thème Wordpress.
+# Action Github permettant d'incrémenter la version des commentaires d'un plugin ou d'un thème Wordpress. 
