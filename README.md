@@ -1,2 +1,1 @@
-# incremente-version
-Action Gthub permettant d'incrémenter une version d'un plugin ou d'un thème.
+# Action Github permettant d'incrémenter la version des commentaires d'un plugin ou d'un thème Wordpress.

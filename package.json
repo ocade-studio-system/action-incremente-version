@@ -1,0 +1,10 @@
+{
+  "name": "action-increment-version",
+  "version": "1.0.0",
+  "description": "Action Github permettant d'incrémenter la version du plugin ou du thème et sortir un fichier (thème ou plugin) avec les commentaires mise à jour",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  }
+}
